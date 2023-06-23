@@ -1,644 +1,644 @@
 {
   "prompts_train": [
-    (
+    [
       "(((Whole face)), panoramic photo of a young man with South Asian ethnicity, highlight hair, with beard studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "glasses, frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young man with South Asian ethnicity, highlight hair, with beard, wearing glasses, studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young man with South Asian ethnicity, highlight hair, studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "glasses, beard, frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young man with South Asian ethnicity, highlight hair, wearing glasses, studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "beard, frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young man with South Asian ethnicity, highlight hair, with beard studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "glasses, hair, frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young man with South Asian ethnicity, highlight hair, with beard, wearing glasses, studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "hair, frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young man with South Asian ethnicity, highlight hair, studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "glasses, beard, hair , frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young man with South Asian ethnicity, highlight hair, wearing glasses, studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "beard, hair, frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young boy with South Asian ethnicity, highlight hair, wearing glasses, studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young boy with South Asian ethnicity, highlight hair, studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "glasses, frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young girl with South Asian ethnicity, highlight hair, wearing glasses, studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young girl with South Asian ethnicity, highlight hair, studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "glasses, frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young Woman with South Asian ethnicity, with short hair, highlight hair, wearing glasses,studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young Woman with South Asian ethnicity, with long hair, highlight hair, wearing glasses,studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young Woman with South Asian ethnicity, with short hair, highlight hair, studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "frame, crop, disfigured, black and white, art, duplicate, glasses"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young Woman with South Asian ethnicity, with long hair, highlight hair, studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "frame, crop, disfigured, black and white, art, duplicate, glasses"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of an old Woman with South Asian ethnicity, with short hair, highlight hair, wearing glasses,studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of an old Woman with South Asian ethnicity, with long hair, highlight hair, wearing glasses,studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of an old Woman with South Asian ethnicity, with short hair, highlight hair, studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "frame, crop, disfigured, black and white, art, duplicate, glasses"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of an old Woman with South Asian ethnicity, with long hair, highlight hair, studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "frame, crop, disfigured, black and white, art, duplicate, glasses"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young man with East Asian ethnicity, highlight hair, with beard studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "glasses, frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young man with East Asian ethnicity, highlight hair, with beard, wearing glasses, studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young man with East Asian ethnicity, highlight hair, studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "glasses, beard, frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young man with East Asian ethnicity, highlight hair, wearing glasses, studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "beard, frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young man with East Asian ethnicity, highlight hair, with beard studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "glasses, hair, frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young man with East Asian ethnicity, highlight hair, with beard, wearing glasses, studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "hair, frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young man with East Asian ethnicity, highlight hair, studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "glasses, beard, hair , frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young man with East Asian ethnicity, highlight hair, wearing glasses, studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "beard, hair, frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young boy with East Asian ethnicity, highlight hair, wearing glasses, studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young boy with East Asian ethnicity, highlight hair, studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "glasses, frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young girl with East Asian ethnicity, highlight hair, wearing glasses, studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young girl with East Asian ethnicity, highlight hair, studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "glasses, frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young Woman with East Asian ethnicity, with short hair, highlight hair, wearing glasses,studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young Woman with East Asian ethnicity, with long hair, highlight hair, wearing glasses,studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young Woman with East Asian ethnicity, with short hair, highlight hair, studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "frame, crop, disfigured, black and white, art, duplicate, glasses"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young Woman with East Asian ethnicity, with long hair, highlight hair, studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "frame, crop, disfigured, black and white, art, duplicate, glasses"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of an old Woman with East Asian ethnicity, with short hair, highlight hair, wearing glasses,studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of an old Woman with East Asian ethnicity, with long hair, highlight hair, wearing glasses,studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of an old Woman with East Asian ethnicity, with short hair, highlight hair, studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "frame, crop, disfigured, black and white, art, duplicate, glasses"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of an old Woman with East Asian ethnicity, with long hair, highlight hair, studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "frame, crop, disfigured, black and white, art, duplicate, glasses"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young man with African ethnicity, highlight hair, with beard studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "glasses, frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young man with African ethnicity, highlight hair, with beard, wearing glasses, studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young man with African ethnicity, highlight hair, studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "glasses, beard, frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young man with African ethnicity, highlight hair, wearing glasses, studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "beard, frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young man with African ethnicity, highlight hair, with beard studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "glasses, hair, frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young man with African ethnicity, highlight hair, with beard, wearing glasses, studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "hair, frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young man with African ethnicity, highlight hair, studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "glasses, beard, hair , frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young man with African ethnicity, highlight hair, wearing glasses, studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "beard, hair, frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young boy with African ethnicity, highlight hair, wearing glasses, studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young boy with African ethnicity, highlight hair, studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "glasses, frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young girl with African ethnicity, highlight hair, wearing glasses, studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young girl with African ethnicity, highlight hair, studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "glasses, frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young Woman with African ethnicity, with short hair, highlight hair, wearing glasses,studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young Woman with African ethnicity, with long hair, highlight hair, wearing glasses,studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young Woman with African ethnicity, with short hair, highlight hair, studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "frame, crop, disfigured, black and white, art, duplicate, glasses"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young Woman with African ethnicity, with long hair, highlight hair, studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "frame, crop, disfigured, black and white, art, duplicate, glasses"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of an old Woman with African ethnicity, with short hair, highlight hair, wearing glasses,studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of an old Woman with African ethnicity, with long hair, highlight hair, wearing glasses,studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of an old Woman with African ethnicity, with short hair, highlight hair, studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "frame, crop, disfigured, black and white, art, duplicate, glasses"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of an old Woman with African ethnicity, with long hair, highlight hair, studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "frame, crop, disfigured, black and white, art, duplicate, glasses"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young man with Middle Eastern features, highlight hair, with beard studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "glasses, frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young man with Middle Eastern features, highlight hair, with beard, wearing glasses, studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young man with Middle Eastern features, highlight hair, studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "glasses, beard, frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young man with Middle Eastern features, highlight hair, wearing glasses, studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "beard, frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young man with Middle Eastern features, highlight hair, with beard studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "glasses, hair, frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young man with Middle Eastern features, highlight hair, with beard, wearing glasses, studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "hair, frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young man with Middle Eastern features, highlight hair, studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "glasses, beard, hair , frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young man with Middle Eastern features, highlight hair, wearing glasses, studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "beard, hair, frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young boy with Middle Eastern features, highlight hair, wearing glasses, studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young boy with Middle Eastern features, highlight hair, studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "glasses, frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young girl with Middle Eastern features, highlight hair, wearing glasses, studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young girl with Middle Eastern features, highlight hair, studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "glasses, frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young Woman with Middle Eastern features, with short hair, highlight hair, wearing glasses,studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young Woman with Middle Eastern features, with long hair, highlight hair, wearing glasses,studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young Woman with Middle Eastern features, with short hair, highlight hair, studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "frame, crop, disfigured, black and white, art, duplicate, glasses"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young Woman with Middle Eastern features, with long hair, highlight hair, studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "frame, crop, disfigured, black and white, art, duplicate, glasses"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of an old Woman with Middle Eastern features, with short hair, highlight hair, wearing glasses,studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of an old Woman with Middle Eastern features, with long hair, highlight hair, wearing glasses,studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of an old Woman with Middle Eastern features, with short hair, highlight hair, studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "frame, crop, disfigured, black and white, art, duplicate, glasses"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of an old Woman with Middle Eastern features, with long hair, highlight hair, studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "frame, crop, disfigured, black and white, art, duplicate, glasses"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young man with Native American ethnicity, highlight hair, with beard studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "glasses, frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young man with Native American ethnicity, highlight hair, with beard, wearing glasses, studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young man with Native American ethnicity, highlight hair, studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "glasses, beard, frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young man with Native American ethnicity, highlight hair, wearing glasses, studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "beard, frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young man with Native American ethnicity, highlight hair, with beard studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "glasses, hair, frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young man with Native American ethnicity, highlight hair, with beard, wearing glasses, studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "hair, frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young man with Native American ethnicity, highlight hair, studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "glasses, beard, hair , frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young man with Native American ethnicity, highlight hair, wearing glasses, studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "beard, hair, frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young boy with Native American ethnicity, highlight hair, wearing glasses, studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young boy with Native American ethnicity, highlight hair, studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "glasses, frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young girl with Native American ethnicity, highlight hair, wearing glasses, studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young girl with Native American ethnicity, highlight hair, studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "glasses, frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young Woman with Native American ethnicity, with short hair, highlight hair, wearing glasses,studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young Woman with Native American ethnicity, with long hair, highlight hair, wearing glasses,studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young Woman with Native American ethnicity, with short hair, highlight hair, studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "frame, crop, disfigured, black and white, art, duplicate, glasses"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young Woman with Native American ethnicity, with long hair, highlight hair, studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "frame, crop, disfigured, black and white, art, duplicate, glasses"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of an old Woman with Native American ethnicity, with short hair, highlight hair, wearing glasses,studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of an old Woman with Native American ethnicity, with long hair, highlight hair, wearing glasses,studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of an old Woman with Native American ethnicity, with short hair, highlight hair, studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "frame, crop, disfigured, black and white, art, duplicate, glasses"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of an old Woman with Native American ethnicity, with long hair, highlight hair, studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "frame, crop, disfigured, black and white, art, duplicate, glasses"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young man with European ancestry, highlight hair, with beard studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "glasses, frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young man with European ancestry, highlight hair, with beard, wearing glasses, studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young man with European ancestry, highlight hair, studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "glasses, beard, frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young man with European ancestry, highlight hair, wearing glasses, studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "beard, frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young man with European ancestry, highlight hair, with beard studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "glasses, hair, frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young man with European ancestry, highlight hair, with beard, wearing glasses, studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "hair, frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young man with European ancestry, highlight hair, studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "glasses, beard, hair , frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young man with European ancestry, highlight hair, wearing glasses, studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "beard, hair, frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young boy with European ancestry, highlight hair, wearing glasses, studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young boy with European ancestry, highlight hair, studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "glasses, frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young girl with European ancestry, highlight hair, wearing glasses, studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young girl with European ancestry, highlight hair, studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "glasses, frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young Woman with European ancestry, with short hair, highlight hair, wearing glasses,studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young Woman with European ancestry, with long hair, highlight hair, wearing glasses,studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young Woman with European ancestry, with short hair, highlight hair, studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "frame, crop, disfigured, black and white, art, duplicate, glasses"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young Woman with European ancestry, with long hair, highlight hair, studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "frame, crop, disfigured, black and white, art, duplicate, glasses"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of an old Woman with European ancestry, with short hair, highlight hair, wearing glasses,studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of an old Woman with European ancestry, with long hair, highlight hair, wearing glasses,studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of an old Woman with European ancestry, with short hair, highlight hair, studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "frame, crop, disfigured, black and white, art, duplicate, glasses"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of an old Woman with European ancestry, with long hair, highlight hair, studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "frame, crop, disfigured, black and white, art, duplicate, glasses"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young man with Hispanic/Latinx, highlight hair, with beard studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "glasses, frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young man with Hispanic/Latinx, highlight hair, with beard, wearing glasses, studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young man with Hispanic/Latinx, highlight hair, studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "glasses, beard, frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young man with Hispanic/Latinx, highlight hair, wearing glasses, studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "beard, frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young man with Hispanic/Latinx, highlight hair, with beard studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "glasses, hair, frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young man with Hispanic/Latinx, highlight hair, with beard, wearing glasses, studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "hair, frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young man with Hispanic/Latinx, highlight hair, studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "glasses, beard, hair , frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young man with Hispanic/Latinx, highlight hair, wearing glasses, studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "beard, hair, frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young boy with Hispanic/Latinx, highlight hair, wearing glasses, studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young boy with Hispanic/Latinx, highlight hair, studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "glasses, frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young girl with Hispanic/Latinx, highlight hair, wearing glasses, studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young girl with Hispanic/Latinx, highlight hair, studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "glasses, frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young Woman with Hispanic/Latinx, with short hair, highlight hair, wearing glasses,studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young Woman with Hispanic/Latinx, with long hair, highlight hair, wearing glasses,studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young Woman with Hispanic/Latinx, with short hair, highlight hair, studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "frame, crop, disfigured, black and white, art, duplicate, glasses"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young Woman with Hispanic/Latinx, with long hair, highlight hair, studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "frame, crop, disfigured, black and white, art, duplicate, glasses"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of an old Woman with Hispanic/Latinx, with short hair, highlight hair, wearing glasses,studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of an old Woman with Hispanic/Latinx, with long hair, highlight hair, wearing glasses,studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of an old Woman with Hispanic/Latinx, with short hair, highlight hair, studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "frame, crop, disfigured, black and white, art, duplicate, glasses"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of an old Woman with Hispanic/Latinx, with long hair, highlight hair, studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "frame, crop, disfigured, black and white, art, duplicate, glasses"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young man from the united states of america, highlight hair, with beard studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "glasses, frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young man from the united states of america, highlight hair, with beard, wearing glasses, studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young man from the united states of america, highlight hair, studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "glasses, beard, frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young man from the united states of america, highlight hair, wearing glasses, studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "beard, frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young man from the united states of america, highlight hair, with beard studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "glasses, hair, frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young man from the united states of america, highlight hair, with beard, wearing glasses, studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "hair, frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young man from the united states of america, highlight hair, studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "glasses, beard, hair , frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young man from the united states of america, highlight hair, wearing glasses, studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "beard, hair, frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young boy from the united states of america, highlight hair, wearing glasses, studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young boy from the united states of america, highlight hair, studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "glasses, frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young girl from the united states of america, highlight hair, wearing glasses, studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young girl from the united states of america, highlight hair, studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "glasses, frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young Woman from the united states of america, with short hair, highlight hair, wearing glasses,studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young Woman from the united states of america, with long hair, highlight hair, wearing glasses,studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young Woman from the united states of america, with short hair, highlight hair, studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "frame, crop, disfigured, black and white, art, duplicate, glasses"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of a young Woman from the united states of america, with long hair, highlight hair, studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "frame, crop, disfigured, black and white, art, duplicate, glasses"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of an old Woman from the united states of america, with short hair, highlight hair, wearing glasses,studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of an old Woman from the united states of america, with long hair, highlight hair, wearing glasses,studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "frame, crop, disfigured, black and white, art, duplicate"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of an old Woman from the united states of america, with short hair, highlight hair, studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "frame, crop, disfigured, black and white, art, duplicate, glasses"
-    ),
-    (
+    ],
+    [
       "(((Whole face)), panoramic photo of an old Woman from the united states of america, with long hair, highlight hair, studio lighting, looking at the camera, dslr, ultra quality, film grain, Fujifilm XT3, crystal clear, 8K UHD, highly detailed eyes, high detailed skin",
       "frame, crop, disfigured, black and white, art, duplicate, glasses"
-    )
+    ]
   ]
 }
