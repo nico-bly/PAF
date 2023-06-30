@@ -1,0 +1,436 @@
+{ 
+  "prompts_train":[ 
+[ 
+"photo of a person, style zwk, closeup,  Man with South Asian ethnicity  ",
+" cgi , with beard, , with glasses, Woman (deformed iris, deformed pupils, semi-realistic, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup, bald,  Man with South Asian ethnicity  ",
+" hair, cgi , with beard, , with glasses, Woman (deformed iris, deformed pupils, semi-realistic, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup,  Man with South Asian ethnicity , with beard, ",
+" cgi  , with glasses, Woman (deformed iris, deformed pupils, semi-realistic, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup, bald,  Man with South Asian ethnicity , with beard, ",
+" hair, cgi  , with glasses, Woman (deformed iris, deformed pupils, semi-realistic, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup,  Woman with South Asian ethnicity , with glasses," ,
+"smiling with teeth, short hair, , with beard,  Man (deformed iris, deformed pupils, semi-realistic, cgi, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup,  Woman with South Asian ethnicity , with glasses," ,
+"smiling with teeth, long hair, , with beard,  Man (deformed iris, deformed pupils, semi-realistic, cgi, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup,  Woman with South Asian ethnicity , with glasses," ,
+"smiling with teeth, short hair, , with beard,  Man (deformed iris, deformed pupils, semi-realistic, cgi, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup,  Woman with South Asian ethnicity , with glasses," ,
+"smiling with teeth, long hair, , with beard,  Man (deformed iris, deformed pupils, semi-realistic, cgi, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup, old Man with South Asian ethnicity  ",
+" cgi , with beard, , with glasses, Woman (deformed iris, deformed pupils, semi-realistic, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup, bald, old Man with South Asian ethnicity  ",
+" hair, cgi , with beard, , with glasses, Woman (deformed iris, deformed pupils, semi-realistic, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup, old Man with South Asian ethnicity , with beard, ",
+" cgi  , with glasses, Woman (deformed iris, deformed pupils, semi-realistic, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup, bald, old Man with South Asian ethnicity , with beard, ",
+" hair, cgi  , with glasses, Woman (deformed iris, deformed pupils, semi-realistic, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup, old Woman with South Asian ethnicity , with glasses," ,
+"smiling with teeth, short hair, , with beard,  Man (deformed iris, deformed pupils, semi-realistic, cgi, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup, old Woman with South Asian ethnicity , with glasses," ,
+"smiling with teeth, long hair, , with beard,  Man (deformed iris, deformed pupils, semi-realistic, cgi, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup, old Woman with South Asian ethnicity , with glasses," ,
+"smiling with teeth, short hair, , with beard,  Man (deformed iris, deformed pupils, semi-realistic, cgi, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup, old Woman with South Asian ethnicity , with glasses," ,
+"smiling with teeth, long hair, , with beard,  Man (deformed iris, deformed pupils, semi-realistic, cgi, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup,  Man with European ethnicity  ",
+" cgi , with beard, , with glasses, Woman (deformed iris, deformed pupils, semi-realistic, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup, bald,  Man with European ethnicity  ",
+" hair, cgi , with beard, , with glasses, Woman (deformed iris, deformed pupils, semi-realistic, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup,  Man with European ethnicity , with beard, ",
+" cgi  , with glasses, Woman (deformed iris, deformed pupils, semi-realistic, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup, bald,  Man with European ethnicity , with beard, ",
+" hair, cgi  , with glasses, Woman (deformed iris, deformed pupils, semi-realistic, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup,  Woman with European ethnicity , with glasses," ,
+"smiling with teeth, short hair, , with beard,  Man (deformed iris, deformed pupils, semi-realistic, cgi, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup,  Woman with European ethnicity , with glasses," ,
+"smiling with teeth, long hair, , with beard,  Man (deformed iris, deformed pupils, semi-realistic, cgi, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup,  Woman with European ethnicity , with glasses," ,
+"smiling with teeth, short hair, , with beard,  Man (deformed iris, deformed pupils, semi-realistic, cgi, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup,  Woman with European ethnicity , with glasses," ,
+"smiling with teeth, long hair, , with beard,  Man (deformed iris, deformed pupils, semi-realistic, cgi, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup, old Man with European ethnicity  ",
+" cgi , with beard, , with glasses, Woman (deformed iris, deformed pupils, semi-realistic, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup, bald, old Man with European ethnicity  ",
+" hair, cgi , with beard, , with glasses, Woman (deformed iris, deformed pupils, semi-realistic, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup, old Man with European ethnicity , with beard, ",
+" cgi  , with glasses, Woman (deformed iris, deformed pupils, semi-realistic, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup, bald, old Man with European ethnicity , with beard, ",
+" hair, cgi  , with glasses, Woman (deformed iris, deformed pupils, semi-realistic, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup, old Woman with European ethnicity , with glasses," ,
+"smiling with teeth, short hair, , with beard,  Man (deformed iris, deformed pupils, semi-realistic, cgi, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup, old Woman with European ethnicity , with glasses," ,
+"smiling with teeth, long hair, , with beard,  Man (deformed iris, deformed pupils, semi-realistic, cgi, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup, old Woman with European ethnicity , with glasses," ,
+"smiling with teeth, short hair, , with beard,  Man (deformed iris, deformed pupils, semi-realistic, cgi, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup, old Woman with European ethnicity , with glasses," ,
+"smiling with teeth, long hair, , with beard,  Man (deformed iris, deformed pupils, semi-realistic, cgi, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup,  Man with African ethnicity  ",
+" cgi , with beard, , with glasses, Woman (deformed iris, deformed pupils, semi-realistic, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup, bald,  Man with African ethnicity  ",
+" hair, cgi , with beard, , with glasses, Woman (deformed iris, deformed pupils, semi-realistic, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup,  Man with African ethnicity , with beard, ",
+" cgi  , with glasses, Woman (deformed iris, deformed pupils, semi-realistic, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup, bald,  Man with African ethnicity , with beard, ",
+" hair, cgi  , with glasses, Woman (deformed iris, deformed pupils, semi-realistic, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup,  Woman with African ethnicity , with glasses," ,
+"smiling with teeth, short hair, , with beard,  Man (deformed iris, deformed pupils, semi-realistic, cgi, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup,  Woman with African ethnicity , with glasses," ,
+"smiling with teeth, long hair, , with beard,  Man (deformed iris, deformed pupils, semi-realistic, cgi, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup,  Woman with African ethnicity , with glasses," ,
+"smiling with teeth, short hair, , with beard,  Man (deformed iris, deformed pupils, semi-realistic, cgi, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup,  Woman with African ethnicity , with glasses," ,
+"smiling with teeth, long hair, , with beard,  Man (deformed iris, deformed pupils, semi-realistic, cgi, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup, old Man with African ethnicity  ",
+" cgi , with beard, , with glasses, Woman (deformed iris, deformed pupils, semi-realistic, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup, bald, old Man with African ethnicity  ",
+" hair, cgi , with beard, , with glasses, Woman (deformed iris, deformed pupils, semi-realistic, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup, old Man with African ethnicity , with beard, ",
+" cgi  , with glasses, Woman (deformed iris, deformed pupils, semi-realistic, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup, bald, old Man with African ethnicity , with beard, ",
+" hair, cgi  , with glasses, Woman (deformed iris, deformed pupils, semi-realistic, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup, old Woman with African ethnicity , with glasses," ,
+"smiling with teeth, short hair, , with beard,  Man (deformed iris, deformed pupils, semi-realistic, cgi, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup, old Woman with African ethnicity , with glasses," ,
+"smiling with teeth, long hair, , with beard,  Man (deformed iris, deformed pupils, semi-realistic, cgi, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup, old Woman with African ethnicity , with glasses," ,
+"smiling with teeth, short hair, , with beard,  Man (deformed iris, deformed pupils, semi-realistic, cgi, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup, old Woman with African ethnicity , with glasses," ,
+"smiling with teeth, long hair, , with beard,  Man (deformed iris, deformed pupils, semi-realistic, cgi, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup,  Man with East Asian ethnicity  ",
+" cgi , with beard, , with glasses, Woman (deformed iris, deformed pupils, semi-realistic, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup, bald,  Man with East Asian ethnicity  ",
+" hair, cgi , with beard, , with glasses, Woman (deformed iris, deformed pupils, semi-realistic, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup,  Man with East Asian ethnicity , with beard, ",
+" cgi  , with glasses, Woman (deformed iris, deformed pupils, semi-realistic, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup, bald,  Man with East Asian ethnicity , with beard, ",
+" hair, cgi  , with glasses, Woman (deformed iris, deformed pupils, semi-realistic, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup,  Woman with East Asian ethnicity , with glasses," ,
+"smiling with teeth, short hair, , with beard,  Man (deformed iris, deformed pupils, semi-realistic, cgi, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup,  Woman with East Asian ethnicity , with glasses," ,
+"smiling with teeth, long hair, , with beard,  Man (deformed iris, deformed pupils, semi-realistic, cgi, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup,  Woman with East Asian ethnicity , with glasses," ,
+"smiling with teeth, short hair, , with beard,  Man (deformed iris, deformed pupils, semi-realistic, cgi, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup,  Woman with East Asian ethnicity , with glasses," ,
+"smiling with teeth, long hair, , with beard,  Man (deformed iris, deformed pupils, semi-realistic, cgi, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup, old Man with East Asian ethnicity  ",
+" cgi , with beard, , with glasses, Woman (deformed iris, deformed pupils, semi-realistic, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup, bald, old Man with East Asian ethnicity  ",
+" hair, cgi , with beard, , with glasses, Woman (deformed iris, deformed pupils, semi-realistic, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup, old Man with East Asian ethnicity , with beard, ",
+" cgi  , with glasses, Woman (deformed iris, deformed pupils, semi-realistic, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup, bald, old Man with East Asian ethnicity , with beard, ",
+" hair, cgi  , with glasses, Woman (deformed iris, deformed pupils, semi-realistic, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup, old Woman with East Asian ethnicity , with glasses," ,
+"smiling with teeth, short hair, , with beard,  Man (deformed iris, deformed pupils, semi-realistic, cgi, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup, old Woman with East Asian ethnicity , with glasses," ,
+"smiling with teeth, long hair, , with beard,  Man (deformed iris, deformed pupils, semi-realistic, cgi, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup, old Woman with East Asian ethnicity , with glasses," ,
+"smiling with teeth, short hair, , with beard,  Man (deformed iris, deformed pupils, semi-realistic, cgi, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup, old Woman with East Asian ethnicity , with glasses," ,
+"smiling with teeth, long hair, , with beard,  Man (deformed iris, deformed pupils, semi-realistic, cgi, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup,  Man with Native American ethnicity  ",
+" cgi , with beard, , with glasses, Woman (deformed iris, deformed pupils, semi-realistic, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup, bald,  Man with Native American ethnicity  ",
+" hair, cgi , with beard, , with glasses, Woman (deformed iris, deformed pupils, semi-realistic, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup,  Man with Native American ethnicity , with beard, ",
+" cgi  , with glasses, Woman (deformed iris, deformed pupils, semi-realistic, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup, bald,  Man with Native American ethnicity , with beard, ",
+" hair, cgi  , with glasses, Woman (deformed iris, deformed pupils, semi-realistic, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup,  Woman with Native American ethnicity , with glasses," ,
+"smiling with teeth, short hair, , with beard,  Man (deformed iris, deformed pupils, semi-realistic, cgi, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup,  Woman with Native American ethnicity , with glasses," ,
+"smiling with teeth, long hair, , with beard,  Man (deformed iris, deformed pupils, semi-realistic, cgi, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup,  Woman with Native American ethnicity , with glasses," ,
+"smiling with teeth, short hair, , with beard,  Man (deformed iris, deformed pupils, semi-realistic, cgi, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup,  Woman with Native American ethnicity , with glasses," ,
+"smiling with teeth, long hair, , with beard,  Man (deformed iris, deformed pupils, semi-realistic, cgi, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup, old Man with Native American ethnicity  ",
+" cgi , with beard, , with glasses, Woman (deformed iris, deformed pupils, semi-realistic, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup, bald, old Man with Native American ethnicity  ",
+" hair, cgi , with beard, , with glasses, Woman (deformed iris, deformed pupils, semi-realistic, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup, old Man with Native American ethnicity , with beard, ",
+" cgi  , with glasses, Woman (deformed iris, deformed pupils, semi-realistic, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup, bald, old Man with Native American ethnicity , with beard, ",
+" hair, cgi  , with glasses, Woman (deformed iris, deformed pupils, semi-realistic, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup, old Woman with Native American ethnicity , with glasses," ,
+"smiling with teeth, short hair, , with beard,  Man (deformed iris, deformed pupils, semi-realistic, cgi, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup, old Woman with Native American ethnicity , with glasses," ,
+"smiling with teeth, long hair, , with beard,  Man (deformed iris, deformed pupils, semi-realistic, cgi, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup, old Woman with Native American ethnicity , with glasses," ,
+"smiling with teeth, short hair, , with beard,  Man (deformed iris, deformed pupils, semi-realistic, cgi, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup, old Woman with Native American ethnicity , with glasses," ,
+"smiling with teeth, long hair, , with beard,  Man (deformed iris, deformed pupils, semi-realistic, cgi, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup,  Man with scandinavian ethnicity  ",
+" cgi , with beard, , with glasses, Woman (deformed iris, deformed pupils, semi-realistic, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup, bald,  Man with scandinavian ethnicity  ",
+" hair, cgi , with beard, , with glasses, Woman (deformed iris, deformed pupils, semi-realistic, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup,  Man with scandinavian ethnicity , with beard, ",
+" cgi  , with glasses, Woman (deformed iris, deformed pupils, semi-realistic, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup, bald,  Man with scandinavian ethnicity , with beard, ",
+" hair, cgi  , with glasses, Woman (deformed iris, deformed pupils, semi-realistic, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup,  Woman with scandinavian ethnicity , with glasses," ,
+"smiling with teeth, short hair, , with beard,  Man (deformed iris, deformed pupils, semi-realistic, cgi, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup,  Woman with scandinavian ethnicity , with glasses," ,
+"smiling with teeth, long hair, , with beard,  Man (deformed iris, deformed pupils, semi-realistic, cgi, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup,  Woman with scandinavian ethnicity , with glasses," ,
+"smiling with teeth, short hair, , with beard,  Man (deformed iris, deformed pupils, semi-realistic, cgi, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup,  Woman with scandinavian ethnicity , with glasses," ,
+"smiling with teeth, long hair, , with beard,  Man (deformed iris, deformed pupils, semi-realistic, cgi, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup, old Man with scandinavian ethnicity  ",
+" cgi , with beard, , with glasses, Woman (deformed iris, deformed pupils, semi-realistic, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup, bald, old Man with scandinavian ethnicity  ",
+" hair, cgi , with beard, , with glasses, Woman (deformed iris, deformed pupils, semi-realistic, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup, old Man with scandinavian ethnicity , with beard, ",
+" cgi  , with glasses, Woman (deformed iris, deformed pupils, semi-realistic, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup, bald, old Man with scandinavian ethnicity , with beard, ",
+" hair, cgi  , with glasses, Woman (deformed iris, deformed pupils, semi-realistic, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup, old Woman with scandinavian ethnicity , with glasses," ,
+"smiling with teeth, short hair, , with beard,  Man (deformed iris, deformed pupils, semi-realistic, cgi, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup, old Woman with scandinavian ethnicity , with glasses," ,
+"smiling with teeth, long hair, , with beard,  Man (deformed iris, deformed pupils, semi-realistic, cgi, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup, old Woman with scandinavian ethnicity , with glasses," ,
+"smiling with teeth, short hair, , with beard,  Man (deformed iris, deformed pupils, semi-realistic, cgi, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup, old Woman with scandinavian ethnicity , with glasses," ,
+"smiling with teeth, long hair, , with beard,  Man (deformed iris, deformed pupils, semi-realistic, cgi, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup,  Man with Hispanic ethnicity  ",
+" cgi , with beard, , with glasses, Woman (deformed iris, deformed pupils, semi-realistic, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup, bald,  Man with Hispanic ethnicity  ",
+" hair, cgi , with beard, , with glasses, Woman (deformed iris, deformed pupils, semi-realistic, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup,  Man with Hispanic ethnicity , with beard, ",
+" cgi  , with glasses, Woman (deformed iris, deformed pupils, semi-realistic, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup, bald,  Man with Hispanic ethnicity , with beard, ",
+" hair, cgi  , with glasses, Woman (deformed iris, deformed pupils, semi-realistic, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup,  Woman with Hispanic ethnicity , with glasses," ,
+"smiling with teeth, short hair, , with beard,  Man (deformed iris, deformed pupils, semi-realistic, cgi, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup,  Woman with Hispanic ethnicity , with glasses," ,
+"smiling with teeth, long hair, , with beard,  Man (deformed iris, deformed pupils, semi-realistic, cgi, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup,  Woman with Hispanic ethnicity , with glasses," ,
+"smiling with teeth, short hair, , with beard,  Man (deformed iris, deformed pupils, semi-realistic, cgi, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup,  Woman with Hispanic ethnicity , with glasses," ,
+"smiling with teeth, long hair, , with beard,  Man (deformed iris, deformed pupils, semi-realistic, cgi, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup, old Man with Hispanic ethnicity  ",
+" cgi , with beard, , with glasses, Woman (deformed iris, deformed pupils, semi-realistic, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup, bald, old Man with Hispanic ethnicity  ",
+" hair, cgi , with beard, , with glasses, Woman (deformed iris, deformed pupils, semi-realistic, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup, old Man with Hispanic ethnicity , with beard, ",
+" cgi  , with glasses, Woman (deformed iris, deformed pupils, semi-realistic, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup, bald, old Man with Hispanic ethnicity , with beard, ",
+" hair, cgi  , with glasses, Woman (deformed iris, deformed pupils, semi-realistic, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup, old Woman with Hispanic ethnicity , with glasses," ,
+"smiling with teeth, short hair, , with beard,  Man (deformed iris, deformed pupils, semi-realistic, cgi, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup, old Woman with Hispanic ethnicity , with glasses," ,
+"smiling with teeth, long hair, , with beard,  Man (deformed iris, deformed pupils, semi-realistic, cgi, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup, old Woman with Hispanic ethnicity , with glasses," ,
+"smiling with teeth, short hair, , with beard,  Man (deformed iris, deformed pupils, semi-realistic, cgi, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup, old Woman with Hispanic ethnicity , with glasses," ,
+"smiling with teeth, long hair, , with beard,  Man (deformed iris, deformed pupils, semi-realistic, cgi, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup,  Man with Middle Eastern ethnicity  ",
+" cgi , with beard, , with glasses, Woman (deformed iris, deformed pupils, semi-realistic, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup, bald,  Man with Middle Eastern ethnicity  ",
+" hair, cgi , with beard, , with glasses, Woman (deformed iris, deformed pupils, semi-realistic, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup,  Man with Middle Eastern ethnicity , with beard, ",
+" cgi  , with glasses, Woman (deformed iris, deformed pupils, semi-realistic, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup, bald,  Man with Middle Eastern ethnicity , with beard, ",
+" hair, cgi  , with glasses, Woman (deformed iris, deformed pupils, semi-realistic, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup,  Woman with Middle Eastern ethnicity , with glasses," ,
+"smiling with teeth, short hair, , with beard,  Man (deformed iris, deformed pupils, semi-realistic, cgi, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup,  Woman with Middle Eastern ethnicity , with glasses," ,
+"smiling with teeth, long hair, , with beard,  Man (deformed iris, deformed pupils, semi-realistic, cgi, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup,  Woman with Middle Eastern ethnicity , with glasses," ,
+"smiling with teeth, short hair, , with beard,  Man (deformed iris, deformed pupils, semi-realistic, cgi, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup,  Woman with Middle Eastern ethnicity , with glasses," ,
+"smiling with teeth, long hair, , with beard,  Man (deformed iris, deformed pupils, semi-realistic, cgi, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup, old Man with Middle Eastern ethnicity  ",
+" cgi , with beard, , with glasses, Woman (deformed iris, deformed pupils, semi-realistic, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup, bald, old Man with Middle Eastern ethnicity  ",
+" hair, cgi , with beard, , with glasses, Woman (deformed iris, deformed pupils, semi-realistic, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup, old Man with Middle Eastern ethnicity , with beard, ",
+" cgi  , with glasses, Woman (deformed iris, deformed pupils, semi-realistic, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup, bald, old Man with Middle Eastern ethnicity , with beard, ",
+" hair, cgi  , with glasses, Woman (deformed iris, deformed pupils, semi-realistic, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup, old Woman with Middle Eastern ethnicity , with glasses," ,
+"smiling with teeth, short hair, , with beard,  Man (deformed iris, deformed pupils, semi-realistic, cgi, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup, old Woman with Middle Eastern ethnicity , with glasses," ,
+"smiling with teeth, long hair, , with beard,  Man (deformed iris, deformed pupils, semi-realistic, cgi, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup, old Woman with Middle Eastern ethnicity , with glasses," ,
+"smiling with teeth, short hair, , with beard,  Man (deformed iris, deformed pupils, semi-realistic, cgi, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup, old Woman with Middle Eastern ethnicity , with glasses," ,
+"smiling with teeth, long hair, , with beard,  Man (deformed iris, deformed pupils, semi-realistic, cgi, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup, young boy with South Asian ethnicity  ",
+"cgi  , with glasses, Woman, (deformed iris, deformed pupils, semi-realistic, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup, young girl with South Asian ethnicity , with glasses," ,
+"smiling with teeth, , with beard,  Man, (deformed iris, deformed pupils, semi-realistic, cgi, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup, young boy with European ethnicity  ",
+"cgi  , with glasses, Woman, (deformed iris, deformed pupils, semi-realistic, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup, young girl with European ethnicity , with glasses," ,
+"smiling with teeth, , with beard,  Man, (deformed iris, deformed pupils, semi-realistic, cgi, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup, young boy with African ethnicity  ",
+"cgi  , with glasses, Woman, (deformed iris, deformed pupils, semi-realistic, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup, young girl with African ethnicity , with glasses," ,
+"smiling with teeth, , with beard,  Man, (deformed iris, deformed pupils, semi-realistic, cgi, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup, young boy with East Asian ethnicity  ",
+"cgi  , with glasses, Woman, (deformed iris, deformed pupils, semi-realistic, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup, young girl with East Asian ethnicity , with glasses," ,
+"smiling with teeth, , with beard,  Man, (deformed iris, deformed pupils, semi-realistic, cgi, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup, young boy with Native American ethnicity  ",
+"cgi  , with glasses, Woman, (deformed iris, deformed pupils, semi-realistic, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup, young girl with Native American ethnicity , with glasses," ,
+"smiling with teeth, , with beard,  Man, (deformed iris, deformed pupils, semi-realistic, cgi, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup, young boy with scandinavian ethnicity  ",
+"cgi  , with glasses, Woman, (deformed iris, deformed pupils, semi-realistic, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup, young girl with scandinavian ethnicity , with glasses," ,
+"smiling with teeth, , with beard,  Man, (deformed iris, deformed pupils, semi-realistic, cgi, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup, young boy with Hispanic ethnicity  ",
+"cgi  , with glasses, Woman, (deformed iris, deformed pupils, semi-realistic, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup, young girl with Hispanic ethnicity , with glasses," ,
+"smiling with teeth, , with beard,  Man, (deformed iris, deformed pupils, semi-realistic, cgi, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup, young boy with Middle Eastern ethnicity  ",
+"cgi  , with glasses, Woman, (deformed iris, deformed pupils, semi-realistic, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"],
+[ 
+"photo of a person, style zwk, closeup, young girl with Middle Eastern ethnicity , with glasses," ,
+"smiling with teeth, , with beard,  Man, (deformed iris, deformed pupils, semi-realistic, cgi, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), wrong anatomy, mutation, amputation"]
+] 
+ }
